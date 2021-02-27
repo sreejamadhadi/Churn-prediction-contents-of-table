@@ -4,6 +4,10 @@ MOBILE_NUMBER |	Customer phone number
 CIRCLE_ID	Telecom | circle area to which the customer belongs to
 LOC	Local calls | within same telecom circle
 STD	STD calls | outside the calling circle
+*_6   | 	Key Performance Indicator(KPI) for the month of June
+*_7   | 	KPI for the month of July
+*_8   | 	KPI for the month of August
+*_9   | 	KPI for the month of September
 IC |	Incoming calls
 OG |	Outgoing calls
 T2T |	Operator T to T, i.e. within same operator (mobile to mobile)
@@ -32,9 +36,6 @@ PCK   | 	Prepaid service schemes called - PACKS
 NIGHT  |  	Scheme to use during specific night hours only
 MONTHLY  |  	Service schemes with validity equivalent to a month
 SACHET  | 	Service schemes with validity smaller than a month
-*.6   | 	KPI for the month of June
-*.7   | 	KPI for the month of July
-*.8   | 	KPI for the month of August
-*.9   | 	KPI for the month of September
+
 FB_USER |	Service scheme to avail services of Facebook and similar social networking sites
 VBC  |  	Volume based cost - when no specific scheme is not purchased and paid as per usage
